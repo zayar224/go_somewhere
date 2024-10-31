@@ -1,0 +1,9 @@
+It’s a good idea to clean your project's node_modules and reinstall the dependencies to avoid any issues.
+- rm -rf node_modules package-lock.json yarn.lock
+- npm install   # or yarn install
+
+If you encounter any issues after updating, you can try clearing the npm/yarn cache.
+- npm cache clean --force
+
+Rebuild your project to ensure everything works with the updated dependencies.
+- npx expo start -c

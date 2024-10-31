@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Holiday Travel Agnecy",
+    "image": "https://cdn.forevervacation.com/uploads/destination/bangkok.jpeg",
+    "rating": 4.7,
+    "reviews": 1450
+  },
+  {
+    "id": "2",
+    "name": "Happy Tour Planners",
+    "image": "https://i0.wp.com/kashmiritours.com/wp-content/uploads/2024/06/Thailand-tour-package-by-kashmir-travelling-voyage-1.jpg?fit=800%2C496&ssl=1",
+    "rating": 4.7,
+    "reviews": 1450
+  },
+  {
+    "id": "3",
+    "name": "Royal Tours & Travels",
+    "image": "https://www.jacadatravel.com/wp-content/uploads/fly-images/193886/longtail-boat-thailand-sunset-1600x700-cc.jpg",
+    "rating": 4.7,
+    "reviews": 1450
+  }
+]

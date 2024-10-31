@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "Tropical Paradise Resort",
+    "image": "https://www.explore.com/img/gallery/this-tropical-paradise-island-has-the-well-earned-name-of-the-maldives-of-thailand/intro-1707092259.jpg",
+    "description": "This Tropical Paradise Island Has The Well-Earned Name Of The Maldives Of Thailand",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Koh Lipe Island",
+    "category": "Beaches"
+  },
+  {
+    "id": "2",
+    "name": "Bangkok Indigo Hotel",
+    "image": "https://bangkok.hotelindigo.com/_next/image/?url=https%3A%2F%2Fbangkokassets.hotelindigo.com%2Fwp-content%2Fuploads%2F2023%2F01%2Foffer-homepage.png&w=3840&q=75",
+    "description": "THE BEST HOTEL IN BANGKOK’S FAMOUS WIRELESS ROAD",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Bangkok",
+    "category": "Cities"
+  },
+  {
+    "id": "3",
+    "name": "Thailand Forest",
+    "image": "https://wp-assets.dotproperty-kh.com/wp-content/uploads/sites/14/2014/10/02084309/forest-of-thailand.jpg",
+    "description": "Thailand Forest",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Bangkok",
+    "category": "Forests"
+  },
+  {
+    "id": "4",
+    "name": "Emerald Lake",
+    "image": "https://www.islander.io/wp-content/uploads/wpallimport/files/places/output1150w/Emerald%20lake.jpg",
+    "description": "Emerald Lake is a glorious saltwater lake.",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Koh Mae Ko",
+    "category": "Lakes"
+  },
+  {
+    "id": "5",
+    "name": "Ayutthaya",
+    "image": "https://www.introducingbangkok.com/f/tailandia/bangkok/guia/ayutthaya.jpg",
+    "description": "Founded in 1350 by king U-Thong, Ayutthaya was the capital of the Kingdom of Siam for more than 400 years.",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Bangkok",
+    "category": "Historical Sites"
+  },
+  {
+    "id": "6",
+    "name": "Kui Buri National Park",
+    "image": "https://www.thainationalparks.com/img/tnp/hero-space/pois/kui-buri-national-park.jpg",
+    "description": "Renowned as the premier spot for wild elephant watching in Thailand",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Hua Hin",
+    "category": "National Parks"
+  },
+  {
+    "id": "7",
+    "name": "Turtle Island",
+    "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2016/02/shutterstock_360887927-Scuba-diving-on-coral-reef-at-Koh-Tao.jpg",
+    "description": "Scuba diving paradise people like to call the Turtle Island",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Koh Tao",
+    "category": "Islands"
+  },
+  {
+    "id": "8",
+    "name": "Had Hong Sand Dunes",
+    "image": "https://www.takemetour.com/amazing-thailand-go-local/wp-content/uploads/2018/09/Things-to-do-in-Ubon-Ratchathani-Thailand-How-about-a-sandy-beach-without-the-sea-for-a-change.jpg",
+    "description": "Catch the sunset at Had Hong Sand Dunes",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Ubon Ratchathani",
+    "category": "Deserts"
+  }
+]
